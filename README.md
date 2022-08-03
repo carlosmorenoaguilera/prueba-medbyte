@@ -26,6 +26,8 @@ Requerimientos:
 - [ ] Autenticacion  
 - [ ] Pantalla de Busqueda Monedas
 - [ ] Conexion a API de Monedas
+    - [x] Pruebas servicio de Monedas seleccionado coingecko
+    - [x] Creado servicio de consulta
 - [ ] Pantalla comparacion Monedas
 - [ ] Graficos 
 - [ ] Variacion de precios Diarios
